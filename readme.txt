@@ -1,1 +1,1 @@
-Simple program that does basic arithmetic and jumps, insert input in teste  
+Simple program that does basic arithmetic, conditionals and jumps, insert input in teste  
